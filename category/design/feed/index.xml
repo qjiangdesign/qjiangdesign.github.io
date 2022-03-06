@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; Yan</title>
+	<atom:link href="https://qjiang0904.github.io/category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://qjiang0904.github.io</link>
+	<description>Interaction. System. Prototype</description>
+	<lastBuildDate>Sun, 06 Mar 2022 13:59:51 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>10 super awesome illustrations to be inspired by</title>
+		<link>https://qjiang0904.github.io/2021/07/20/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/</link>
+					<comments>https://qjiang0904.github.io/2021/07/20/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/#respond</comments>
+		
+		<dc:creator><![CDATA[Yan]]></dc:creator>
+		<pubDate>Tue, 20 Jul 2021 10:38:53 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<guid isPermaLink="false">https://qjiang0904.github.io/2021/07/20/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="39" class="elementor elementor-39" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-77e28f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77e28f4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b2f9c8" data-id="5b2f9c8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6ca0a28 elementor-widget elementor-widget-text-editor" data-id="6ca0a28" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-56cdecc elementor-widget elementor-widget-text-editor" data-id="56cdecc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<blockquote>
+<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+</blockquote>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7cd6188 elementor-widget elementor-widget-text-editor" data-id="7cd6188" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-d06077f elementor-widget elementor-widget-heading" data-id="d06077f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ae7af0 elementor-widget elementor-widget-text-editor" data-id="2ae7af0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-acc7fca elementor-widget elementor-widget-text-editor" data-id="acc7fca" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<ul>
+<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
+<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
+</ul>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-e1ec46c elementor-widget elementor-widget-text-editor" data-id="e1ec46c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://qjiang0904.github.io/2021/07/20/ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Free backgrounds: Where to get the coolest backgrounds for your projects</title>
+		<link>https://qjiang0904.github.io/2021/07/20/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/</link>
+					<comments>https://qjiang0904.github.io/2021/07/20/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/#respond</comments>
+		
+		<dc:creator><![CDATA[Yan]]></dc:creator>
+		<pubDate>Tue, 20 Jul 2021 10:38:22 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<guid isPermaLink="false">https://qjiang0904.github.io/2021/07/20/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="561" class="elementor elementor-561" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-ce640d9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ce640d9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-de7ffae" data-id="de7ffae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ee9b9df elementor-widget elementor-widget-text-editor" data-id="ee9b9df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-146b724 elementor-widget elementor-widget-text-editor" data-id="146b724" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<blockquote>
+<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+</blockquote>						</div>
+				</div>
+				<div class="elementor-element elementor-element-43db217 elementor-widget elementor-widget-text-editor" data-id="43db217" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-1be5de9 elementor-widget elementor-widget-heading" data-id="1be5de9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cd8fc12 elementor-widget elementor-widget-text-editor" data-id="cd8fc12" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-759f554 elementor-widget elementor-widget-text-editor" data-id="759f554" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<ul>
+<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
+<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
+</ul>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-74e04f9 elementor-widget elementor-widget-text-editor" data-id="74e04f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://qjiang0904.github.io/2021/07/20/officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis-unde-omnis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
