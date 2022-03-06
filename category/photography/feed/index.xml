@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Photography &#8211; Yan</title>
+	<atom:link href="https://github.com/Qjiang0904/qjiang0904.github.io.git/category/photography/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/Qjiang0904/qjiang0904.github.io.git</link>
+	<description>Interaction. System. Prototype</description>
+	<lastBuildDate>Sun, 06 Mar 2022 13:59:51 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Fawn Sebastian talking about the Art of Color Correction, Part One</title>
+		<link>https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/</link>
+					<comments>https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/#respond</comments>
+		
+		<dc:creator><![CDATA[Yan]]></dc:creator>
+		<pubDate>Tue, 20 Jul 2021 10:39:26 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<guid isPermaLink="false">https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="44" class="elementor elementor-44" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-cb7af95 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cb7af95" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e0eeeb1" data-id="e0eeeb1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3080a03 elementor-widget elementor-widget-text-editor" data-id="3080a03" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-c248de2 elementor-widget elementor-widget-text-editor" data-id="c248de2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<blockquote>
+<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+</blockquote>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3355d78 elementor-widget elementor-widget-text-editor" data-id="3355d78" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-47fd2f6 elementor-widget elementor-widget-heading" data-id="47fd2f6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fdecc31 elementor-widget elementor-widget-text-editor" data-id="fdecc31" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-cab2e4e elementor-widget elementor-widget-text-editor" data-id="cab2e4e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<ul>
+<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
+<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
+</ul>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-89d0ef7 elementor-widget elementor-widget-text-editor" data-id="89d0ef7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor-incididunt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fawn Sebastian talking about the Art of Color Correction, Part Two</title>
+		<link>https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/</link>
+					<comments>https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/#respond</comments>
+		
+		<dc:creator><![CDATA[Yan]]></dc:creator>
+		<pubDate>Tue, 20 Jul 2021 10:39:07 +0000</pubDate>
+				<category><![CDATA[Photography]]></category>
+		<guid isPermaLink="false">https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="41" class="elementor elementor-41" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-7bb1e09 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bb1e09" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-981362a" data-id="981362a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1530abe elementor-widget elementor-widget-text-editor" data-id="1530abe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-4576bf9 elementor-widget elementor-widget-text-editor" data-id="4576bf9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<blockquote>
+<p><span style="color: #5692d7">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+</blockquote>						</div>
+				</div>
+				<div class="elementor-element elementor-element-47a9502 elementor-widget elementor-widget-text-editor" data-id="47a9502" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-58eba8b elementor-widget elementor-widget-heading" data-id="58eba8b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Labore et dolore magna aliqua.</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9613a31 elementor-widget elementor-widget-text-editor" data-id="9613a31" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.<!-- /wp:paragraph --></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-4ad2350 elementor-widget elementor-widget-text-editor" data-id="4ad2350" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<ul>
+<li>Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</li>
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li>
+<li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</li>
+</ul>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-4b73692 elementor-widget elementor-widget-text-editor" data-id="4b73692" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/Qjiang0904/qjiang0904.github.io.git/2021/07/20/lorem-ipsum-dolor-sit-amet-consectetur-adipisicing-elit-sed-do-eiusmod-tempor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
