@@ -11,13 +11,21 @@
 	<title>Yan</title>
 	<atom:link href="https://qjiangdesign.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://qjiangdesign.github.io</link>
-	<description>Interaction&#124;System&#124;Prototype</description>
-	<lastBuildDate>Thu, 28 Apr 2022 13:57:28 +0000</lastBuildDate>
+	<description>&#124;Prototype&#124;</description>
+	<lastBuildDate>Tue, 03 May 2022 15:40:26 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://qjiangdesign.github.io/wp-content/uploads/2021/07/logo-1.png</url>
+	<title>Yan</title>
+	<link>https://qjiangdesign.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
