@@ -9,28 +9,35 @@
 
 <channel>
 	<title>Yan</title>
-	<atom:link href="https://qjiangdesign.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://qjiangdesign.github.io</link>
-<<<<<<< HEAD
-	<description>&#124;Prototype&#124;</description>
-	<lastBuildDate>Tue, 03 May 2022 15:40:26 +0000</lastBuildDate>
-=======
-	<description>Interaction&#124;System&#124;Prototype</description>
-	<lastBuildDate>Thu, 28 Apr 2022 13:50:18 +0000</lastBuildDate>
->>>>>>> parent of b359075 (initial)
+	<atom:link href="http://qjiangdesign.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://qjiangdesign.github.io</link>
+	<description>又一个WordPress站点</description>
+	<lastBuildDate>Wed, 04 May 2022 05:12:42 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>世界，您好！</title>
+		<link>http://qjiangdesign.github.io/2022/05/04/hello-world/</link>
+					<comments>http://qjiangdesign.github.io/2022/05/04/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[qjiang]]></dc:creator>
+		<pubDate>Wed, 04 May 2022 05:12:42 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">http://qjiangdesign.github.io/?p=1</guid>
 
-<image>
-	<url>https://qjiangdesign.github.io/wp-content/uploads/2021/07/logo-1.png</url>
-	<title>Yan</title>
-	<link>https://qjiangdesign.github.io</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-</channel>
+					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
+										<content:encoded><![CDATA[
+<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://qjiangdesign.github.io/2022/05/04/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
