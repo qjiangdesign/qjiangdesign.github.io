@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	“Yan”的评论	</title>
-	<atom:link href="http://qjiangdesign.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://qjiangdesign.github.io</link>
+	<atom:link href="//qjiangdesign.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>//qjiangdesign.github.io</link>
 	<description>Interaction Designer</description>
-	<lastBuildDate>Wed, 04 May 2022 05:58:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 May 2022 05:59:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
