@@ -46,7 +46,6 @@ __(
 			  );
 __( 'Delete this class?', 'elementor' );
 __( 'Deleting', 'elementor' );
-__( 'Class Manager', 'elementor' );
 __( 'Save changes', 'elementor' );
 __( 'You have unsaved changes', 'elementor' );
 __( 'You have unsaved changes in the Class Manager.', 'elementor' );
@@ -73,13 +72,6 @@ __(
 					'elementor'
 				);
 __( 'Class Manager', 'elementor' );
-__( 'You have unsaved changes', 'elementor' );
-__(
-								"To open the Class Manager, save your page first. You can't continue without saving.",
-								'elementor'
-							);
-__( 'Stay here', 'elementor' );
-__( 'Save & Continue', 'elementor' );
 __( 'More actions', 'elementor' );
 __( 'Rename', 'elementor' );
 __( 'Stop syncing to Global Fonts', 'elementor' );

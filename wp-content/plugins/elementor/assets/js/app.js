@@ -7679,7 +7679,7 @@ function ImportComplete() {
     altText: (0, _i18n.__)('Kit is live illustration', 'elementor'),
     testId: "import-complete-icon"
   }), /*#__PURE__*/_react.default.createElement(_components.CompleteHeading, {
-    title: (0, _i18n.__)('Your website templates is now live on your site!', 'elementor'),
+    title: (0, _i18n.__)('Your website template is now live on your site!', 'elementor'),
     subtitle: (0, _i18n.__)('You\'ve imported and applied the following to your site:', 'elementor'),
     testId: "import-complete-heading"
   }), /*#__PURE__*/_react.default.createElement(_components.CompleteSummary, {
@@ -9258,7 +9258,7 @@ var messagesContent = exports.messagesContent = {
       (0, _i18n.__)('%s exceeds the library size limit', 'elementor'), filename)), /*#__PURE__*/_react.default.createElement(_ui.Typography, {
         variant: "body2"
       }, (0, _i18n.sprintf)(/* Translators: %s: Quota threshold in GB */
-      (0, _i18n.__)('The maximum website template library size is %s GB. To save this file, you can either export it locally as a .zip file or get more storage by ', 'elementor'), maxSize), /*#__PURE__*/_react.default.createElement(Link, {
+      (0, _i18n.__)('The maximum website template library size is %s GB. To save this file, you can either export it locally as a .zip file or get more storage by', 'elementor'), maxSize), ' ', /*#__PURE__*/_react.default.createElement(Link, {
         href: "https://go.elementor.com/go-pro-cloud-website-templates-library-advanced/"
       }, (0, _i18n.__)('Upgrade now', 'elementor')), "."));
     }
@@ -16017,7 +16017,10 @@ function ImportPlugins() {
   }), /*#__PURE__*/_react.default.createElement(_pageHeader.default, {
     heading: __('Select which plugins to include', 'elementor'),
     description: __('All items are already selected by default. Uncheck the ones you don\'t want.', 'elementor')
-  }), !!(minVersionMissing !== null && minVersionMissing !== void 0 && minVersionMissing.length) && /*#__PURE__*/_react.default.createElement(_notice.default, {
+  }), !!(minVersionMissing !== null && minVersionMissing !== void 0 && minVersionMissing.length) &&
+  /*#__PURE__*/
+  // eslint-disable-next-line @wordpress/i18n-no-flanking-whitespace
+  _react.default.createElement(_notice.default, {
     label: __(' Recommended:', 'elementor'),
     className: "e-app-import-plugins__versions-notice",
     color: "warning"
@@ -16936,7 +16939,7 @@ function ExportInfoModal(props) {
     title: __('Export a Website Kit', 'elementor')
   }), /*#__PURE__*/_react.default.createElement(_infoModal.default.Section, null, /*#__PURE__*/_react.default.createElement(_infoModal.default.Heading, null, __('What’s a Website Kit?', 'elementor')), /*#__PURE__*/_react.default.createElement(_infoModal.default.Text, null, /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('A Website Kit is a .zip file that contains all the parts of a complete site. It’s an easy way to get a site up and running quickly.', 'elementor'), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement(_inlineLink.default, {
     url: "https://go.elementor.com/app-what-are-kits"
-  }, __(' Learn more about Website Kits', 'elementor'))))), /*#__PURE__*/_react.default.createElement(_infoModal.default.Section, null, /*#__PURE__*/_react.default.createElement(_infoModal.default.Heading, null, __('How does exporting work?', 'elementor')), /*#__PURE__*/_react.default.createElement(_infoModal.default.Text, null, /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('To turn your site into a Website Kit, select the templates, content, settings and plugins you want to include. Once it’s ready, you’ll get a .zip file that you can import to other sites.', 'elementor'), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement(_inlineLink.default, {
+  }, __('Learn more about Website Kits', 'elementor'))))), /*#__PURE__*/_react.default.createElement(_infoModal.default.Section, null, /*#__PURE__*/_react.default.createElement(_infoModal.default.Heading, null, __('How does exporting work?', 'elementor')), /*#__PURE__*/_react.default.createElement(_infoModal.default.Text, null, /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('To turn your site into a Website Kit, select the templates, content, settings and plugins you want to include. Once it’s ready, you’ll get a .zip file that you can import to other sites.', 'elementor'), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement(_inlineLink.default, {
     url: "https://go.elementor.com/app-export-kit"
   }, __('Learn More', 'elementor'))))));
 }
@@ -16979,7 +16982,7 @@ function ImportInfoModal(props) {
     onClick: function onClick() {
       return eventTracking('Learn more about website templates');
     }
-  }, __(' Learn more about Website Templates', 'elementor'))))), /*#__PURE__*/_react.default.createElement(_infoModal.default.Section, null, /*#__PURE__*/_react.default.createElement(_infoModal.default.Heading, null, __('How does importing work?', 'elementor')), /*#__PURE__*/_react.default.createElement(_infoModal.default.Text, null, /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('Start by uploading the file and selecting the parts and plugins you want to apply. If there are any overlaps between the kit and your current design, you’ll be able to choose which imported parts you want to apply or ignore. Once the file is ready, the kit will be applied to your site and you’ll be able to see it live.', 'elementor'), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement(_inlineLink.default, {
+  }, "       ", __(' Learn more about Website Templates', 'elementor'))))), /*#__PURE__*/_react.default.createElement(_infoModal.default.Section, null, /*#__PURE__*/_react.default.createElement(_infoModal.default.Heading, null, __('How does importing work?', 'elementor')), /*#__PURE__*/_react.default.createElement(_infoModal.default.Text, null, /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('Start by uploading the file and selecting the parts and plugins you want to apply. If there are any overlaps between the kit and your current design, you’ll be able to choose which imported parts you want to apply or ignore. Once the file is ready, the kit will be applied to your site and you’ll be able to see it live.', 'elementor'), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement("br", null), /*#__PURE__*/_react.default.createElement(_inlineLink.default, {
     url: "https://go.elementor.com/app-import-kit",
     onClick: function onClick() {
       return eventTracking('learn more');
@@ -18045,7 +18048,7 @@ var messagesContent = {
   },
   'invalid-kit-library-zip-error': {
     title: __('Unable to download the Website Template', 'elementor'),
-    text: /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('We couldn’t download the Website Template due to technical difficulty on our part. Try again in a few minutes and if the problem persists contact ', 'elementor'), /*#__PURE__*/_react.default.createElement(_inlineLink.default, {
+    text: /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, __('We couldn’t download the Website Template due to technical difficulty on our part. Try again in a few minutes and if the problem persists contact', 'elementor'), /*#__PURE__*/_react.default.createElement(_inlineLink.default, {
       url: "https://my.elementor.com/support-center/"
     }, __('Support', 'elementor')))
   },
@@ -19197,6 +19200,41 @@ var Onboarding = exports["default"] = /*#__PURE__*/(0, _createClass2.default)(fu
 
 /***/ }),
 
+/***/ "../app/modules/site-builder/assets/js/module.js":
+/*!*******************************************************!*\
+  !*** ../app/modules/site-builder/assets/js/module.js ***!
+  \*******************************************************/
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "../node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports["default"] = void 0;
+var _createClass2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/createClass */ "../node_modules/@babel/runtime/helpers/createClass.js"));
+var _classCallCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "../node_modules/@babel/runtime/helpers/classCallCheck.js"));
+var _router = _interopRequireDefault(__webpack_require__(/*! @elementor/router */ "@elementor/router"));
+var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
+var LazyApp = _react.default.lazy(function () {
+  return Promise.resolve(/*! import() */).then(__webpack_require__.t.bind(__webpack_require__, /*! @elementor/site-builder */ "@elementor/site-builder", 23)).then(function (module) {
+    return {
+      default: module.App
+    };
+  });
+});
+var SiteBuilder = exports["default"] = /*#__PURE__*/(0, _createClass2.default)(function SiteBuilder() {
+  (0, _classCallCheck2.default)(this, SiteBuilder);
+  _router.default.addRoute({
+    path: '/site-builder/*',
+    component: LazyApp
+  });
+});
+
+/***/ }),
+
 /***/ "../assets/dev/js/utils/react.js":
 /*!***************************************!*\
   !*** ../assets/dev/js/utils/react.js ***!
@@ -19266,7 +19304,11 @@ exports["default"] = void 0;
 var eventsConfig = {
   appTypes: {
     editor: 'editor',
-    wpAdmin: 'wpadmin'
+    wpAdmin: 'wpadmin',
+    wpDash: 'wpdash'
+  },
+  windowNames: {
+    sidebarMenu: 'sidebar_menu'
   },
   targetTypes: {
     dropdownItem: 'dropdown_item',
@@ -19276,7 +19318,11 @@ var eventsConfig = {
     searchInput: 'search_input',
     searchResult: 'search_result',
     buttons: 'buttons',
-    searchWidget: 'search_widget'
+    searchWidget: 'search_widget',
+    wpDashAdminMenuItem: 'wpdash_admin_menu_item',
+    wpDashEditorMenu: 'wpdash_editor_menu',
+    wpDashSubMenuItem: 'wpdash_sub_menu_item',
+    link: 'link'
   },
   interactionResults: {
     actionSelected: 'action_selected',
@@ -19291,7 +19337,13 @@ var eventsConfig = {
     noResults: 'no_results',
     selected: 'selected',
     promotionViewed: 'promotion_viewed',
-    upgradeNow: 'upgrade_now'
+    upgradeNow: 'upgrade_now',
+    elementorSideMenuOpened: 'elementor_side_menu_opened',
+    editorSubMenuOpened: 'wpdash_editor_sub_menu_opened',
+    themeBuilderPromotionWindow: 'theme_builder_promotion_window',
+    pageOpened: 'page_opened',
+    expanded: 'expanded',
+    collapsed: 'collapsed'
   },
   targetNames: {
     publishDropdown: {
@@ -19316,7 +19368,8 @@ var eventsConfig = {
     pageLoaded: 'Page Loaded',
     typing: 'Typing',
     tabSelect: 'Tab Select',
-    insert: 'Insert'
+    insert: 'Insert',
+    hover: 'Hover'
   },
   locations: {
     widgetPanel: 'Widget Panel',
@@ -19335,6 +19388,7 @@ var eventsConfig = {
     variables: 'Variables Panel',
     variablesManager: 'Variables Manager',
     admin: 'WP admin',
+    wpDashAdmin: 'wpdash_admin',
     structurePanel: 'Structure Panel',
     canvas: 'Canvas',
     leftPanel: 'Left Panel',
@@ -19423,7 +19477,10 @@ var eventsConfig = {
     searchBar: 'Search Bar',
     finderResults: 'Finder Results',
     libraryTabs: 'Library Tabs',
-    assetCard: 'Asset Card'
+    assetCard: 'Asset Card',
+    wpDashElementorCoreMenu: 'elementor_editor_core_menu',
+    wpDashElementorCoreSubMenu: 'elementor_editor_core_sub_menu',
+    wpDashThemeBuilder: 'wpdash_core_sub_menu_theme_builder'
   },
   elements: {
     accordionSection: 'Accordion section',
@@ -19474,6 +19531,7 @@ var eventsConfig = {
     },
     // ChecklistSteps event names are generated dynamically, based on stepId and action type taken: title, action, done, undone, upgrade
     elementorEditor: {
+      editorLoaded: 'editor_loaded',
       checklist: {
         checklistHeaderClose: 'checklist_header_close_icon',
         checklistFirstPopup: 'checklist popup triggered'
@@ -19488,10 +19546,22 @@ var eventsConfig = {
       add: 'add_new_variable',
       connect: 'connect_variable',
       save: 'save_new_variable',
+      update: 'update_variable',
       openManager: 'open_variables_manager',
       saveChanges: 'save_variables_changes',
       delete: 'delete_variable',
       variableSyncToV3: 'variable_sync_to_v3'
+    },
+    design_system: {
+      importOpened: 'design_system_import_opened',
+      fileSelected: 'design_system_file_selected',
+      validationFailed: 'design_system_validation_failed',
+      conflictChoice: 'design_system_conflict_choice',
+      confirmed: 'design_system_import_confirmed',
+      imported: 'design_system_imported',
+      importFailed: 'design_system_import_failed',
+      export: 'design_system_export',
+      opened: 'design_system_opened'
     },
     components: {
       createClicked: 'component_create_clicked',
@@ -19539,7 +19609,12 @@ var eventsConfig = {
       finderSearchInput: 'finder_search_input',
       finderResultSelect: 'finder_result_select',
       canvasEmptyBoxAction: 'canvas_empty_box_action',
-      widgetPanelSearch: 'widget_panel_search'
+      widgetPanelSearch: 'widget_panel_search',
+      wpDashElementorMenuClick: 'wpdash_elementor_menu_click',
+      wpDashEditorSubMenuHover: 'wpdash_editor_sub_menu_hover',
+      wpDashThemeBuilderClick: 'wpdash_theme_builder_click',
+      sidebarMenuItemClicked: 'sidebar_menu_item_clicked',
+      sidebarMenuGroupToggled: 'sidebar_menu_group_toggled'
     },
     interactions: {
       created: 'interactions_created'
@@ -29986,6 +30061,17 @@ module.exports = elementorAppPackages.router;
 
 /***/ }),
 
+/***/ "@elementor/site-builder":
+/*!**********************************************!*\
+  !*** external ["elementorV2","siteBuilder"] ***!
+  \**********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = elementorV2.siteBuilder;
+
+/***/ }),
+
 /***/ "@elementor/site-editor":
 /*!**************************************************!*\
   !*** external "elementorAppPackages.siteEditor" ***!
@@ -30144,7 +30230,7 @@ module.exports = ReactDOM;
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames not based on template
 /******/ 			if (chunkId === "vendors-node_modules_react-query_devtools_index_js") return "e459c6c89c0c0899c850.bundle.js";
-/******/ 			if (chunkId === "kit-library") return "" + chunkId + ".b768952e1d4177aa68d8.bundle.js";
+/******/ 			if (chunkId === "kit-library") return "" + chunkId + ".816d964bf4c39d277a8e.bundle.js";
 /******/ 			// return url for filenames based on template
 /******/ 			return undefined;
 /******/ 		};
@@ -30359,14 +30445,18 @@ var _module = _interopRequireDefault(__webpack_require__(/*! ../../modules/impor
 var _module2 = _interopRequireDefault(__webpack_require__(/*! ../../modules/import-export-customization/assets/js/module */ "../app/modules/import-export-customization/assets/js/module.js"));
 var _module3 = _interopRequireDefault(__webpack_require__(/*! ../../modules/kit-library/assets/js/module */ "../app/modules/kit-library/assets/js/module.js"));
 var _module4 = _interopRequireDefault(__webpack_require__(/*! ../../modules/onboarding/assets/js/module */ "../app/modules/onboarding/assets/js/module.js"));
+var _module5 = _interopRequireDefault(__webpack_require__(/*! ../../modules/site-builder/assets/js/module */ "../app/modules/site-builder/assets/js/module.js"));
 var _siteEditor = __webpack_require__(/*! @elementor/site-editor */ "@elementor/site-editor");
 var _appContext = _interopRequireDefault(__webpack_require__(/*! ./app-context */ "../app/assets/js/app-context.js"));
-var _elementorCommon;
+var _elementorCommon, _elementorCommon2;
 new _module.default();
 new _module3.default();
 new _siteEditor.Module();
+if ((_elementorCommon = elementorCommon) !== null && _elementorCommon !== void 0 && (_elementorCommon = _elementorCommon.config) !== null && _elementorCommon !== void 0 && (_elementorCommon = _elementorCommon.experimentalFeatures) !== null && _elementorCommon !== void 0 && _elementorCommon['site-builder']) {
+  new _module5.default();
+}
 new _module4.default();
-if ((_elementorCommon = elementorCommon) !== null && _elementorCommon !== void 0 && (_elementorCommon = _elementorCommon.config) !== null && _elementorCommon !== void 0 && (_elementorCommon = _elementorCommon.experimentalFeatures) !== null && _elementorCommon !== void 0 && _elementorCommon['import-export-customization']) {
+if ((_elementorCommon2 = elementorCommon) !== null && _elementorCommon2 !== void 0 && (_elementorCommon2 = _elementorCommon2.config) !== null && _elementorCommon2 !== void 0 && (_elementorCommon2 = _elementorCommon2.experimentalFeatures) !== null && _elementorCommon2 !== void 0 && _elementorCommon2['import-export-customization']) {
   new _module2.default();
 }
 var AppWrapper = _react.default.Fragment;

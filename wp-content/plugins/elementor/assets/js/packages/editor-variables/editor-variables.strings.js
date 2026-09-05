@@ -37,6 +37,8 @@ __(
 						'Looks like none of your variables work with this control. Create a new variable to use it here.',
 						'elementor'
 					);
+__( 'Drop shadow:', 'elementor' );
+__( 'Move:', 'elementor' );
 __( 'Restore variable', 'elementor' );
 __( 'Name', 'elementor' );
 __( 'Value', 'elementor' );
@@ -54,8 +56,8 @@ __( 'Value', 'elementor' );
 __( 'Create', 'elementor' );
 __( 'Name', 'elementor' );
 __( 'Value', 'elementor' );
+__( 'Duplicate', 'elementor' );
 __( 'Delete', 'elementor' );
-__( 'Variables Manager', 'elementor' );
 __( 'Search', 'elementor' );
 __( 'Create your first variable', 'elementor' );
 __(
@@ -64,6 +66,7 @@ __(
 							);
 __( 'Save changes', 'elementor' );
 __( 'You have unsaved changes', 'elementor' );
+__( 'You have unsaved changes in the Variables Manager.', 'elementor' );
 __( 'To avoid losing your updates, save your changes before leaving.', 'elementor' );
 __( 'Discard', 'elementor' );
 __( 'Save', 'elementor' );

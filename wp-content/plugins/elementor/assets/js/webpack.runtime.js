@@ -14,13 +14,16 @@
 /******/ 		}
 /******/ 		// Create a new module (and put it into the cache)
 /******/ 		var module = __webpack_module_cache__[moduleId] = {
-/******/ 			// no module.id needed
-/******/ 			// no module.loaded needed
+/******/ 			id: moduleId,
+/******/ 			loaded: false,
 /******/ 			exports: {}
 /******/ 		};
 /******/ 	
 /******/ 		// Execute the module function
 /******/ 		__webpack_modules__[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Flag the module as loaded
+/******/ 		module.loaded = true;
 /******/ 	
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
@@ -123,7 +126,7 @@
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames not based on template
 /******/ 			if (chunkId === "vendors-node_modules_dompurify_dist_purify_cjs_js") return "6caa76d2f6eec6c4e665.bundle.js";
-/******/ 			if (chunkId === "lightbox") return "" + chunkId + ".d9ea72d232a14f514ee2.bundle.js";
+/******/ 			if (chunkId === "lightbox") return "" + chunkId + ".21984471d5ca0db94445.bundle.js";
 /******/ 			if (chunkId === "text-path") return "" + chunkId + ".6db73cc0a10a70f128eb.bundle.js";
 /******/ 			if (chunkId === "accordion") return "" + chunkId + ".b9a0ab19c7c872c405d7.bundle.js";
 /******/ 			if (chunkId === "alert") return "" + chunkId + ".fd509aa768e7b35a8e32.bundle.js";
@@ -141,7 +144,7 @@
 /******/ 			if (chunkId === "floating-bars") return "" + chunkId + ".a6e6a043444b62f64f82.bundle.js";
 /******/ 			if (chunkId === "shared-frontend-handlers") return "" + chunkId + ".3b079824c37a5fe2bdaa.bundle.js";
 /******/ 			if (chunkId === "shared-editor-handlers") return "" + chunkId + ".3023894100138e442ab0.bundle.js";
-/******/ 			if (chunkId === "container-editor-handlers") return "" + chunkId + ".e7e069c4e656425c51f8.bundle.js";
+/******/ 			if (chunkId === "container-editor-handlers") return "" + chunkId + ".b45e73e31bdb50fb2cd1.bundle.js";
 /******/ 			if (chunkId === "section-frontend-handlers") return "" + chunkId + ".c3950c6b190ca134bc8d.bundle.js";
 /******/ 			if (chunkId === "section-editor-handlers") return "" + chunkId + ".d65899d232b5339510d7.bundle.js";
 /******/ 			if (chunkId === "nested-title-keyboard-handler") return "" + chunkId + ".0c2b498e3e0695a1dc19.bundle.js";
@@ -220,6 +223,15 @@
 /******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/node module decorator */
+/******/ 	(() => {
+/******/ 		__webpack_require__.nmd = (module) => {
+/******/ 			module.paths = [];
+/******/ 			if (!module.children) module.children = [];
+/******/ 			return module;
 /******/ 		};
 /******/ 	})();
 /******/ 	

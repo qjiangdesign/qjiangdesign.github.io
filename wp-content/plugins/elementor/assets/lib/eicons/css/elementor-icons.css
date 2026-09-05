@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_48_0");
-  src: url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_48_0#iefix") format("embedded-opentype"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_48_0") format("woff2"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_48_0") format("woff"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_48_0") format("truetype"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_48_0#eicon") format("svg");
+  src: url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_53_0");
+  src: url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_53_0#iefix") format("embedded-opentype"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_53_0") format("woff2"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_53_0") format("woff"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_53_0") format("truetype"), url("https://qjiangdesign.github.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_53_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -2037,6 +2037,50 @@
 
 .eicon-atomic-radiobutton:before {
   content: "\e9f5";
+}
+
+.eicon-atomic-file-upload:before {
+  content: "\ebe9";
+}
+
+.eicon-atomic-time-picker:before {
+  content: "\ebea";
+}
+
+.eicon-atomic-date-picker:before {
+  content: "\ebeb";
+}
+
+.eicon-upgrade-crown-full:before {
+  content: "\ef03";
+}
+
+.eicon-after:before {
+  content: "\ebfa";
+}
+
+.eicon-pagination-item:before {
+  content: "\ebfb";
+}
+
+.eicon-before:before {
+  content: "\ebfc";
+}
+
+.eicon-pagination:before {
+  content: "\ebfd";
+}
+
+.eicon-loop-item:before {
+  content: "\ec00";
+}
+
+.eicon-loop-widget:before {
+  content: "\ec01";
+}
+
+.eicon-x-twitter:before {
+  content: "\ef04";
 }
 
 .eicon-eye:before {
