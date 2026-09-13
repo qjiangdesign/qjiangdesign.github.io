@@ -291,3 +291,42 @@ html:has(body.page-id-3813) {scroll-behavior:smooth;scroll-padding-top:48px;}
 .elementor .qje-detail .elementor-widget-text-editor{max-width:900px;}
 .elementor .qje-detail .elementor-widget-image figcaption{font-size:13px;line-height:1.6;color:#777;text-align:left;margin-top:12px;}
 .elementor .qje-detail .elementor-widget-image figure img{max-height:900px;object-fit:contain;background:#f7f7f7;}
+
+/* Shared project rhythm, preserving content-specific columns and media groups. */
+body.qjiang-project {--qj-width:1400px;--qj-rule:#e2e2e2;--qj-ink:#202020;background:#fff!important;}
+.qj-masthead{max-width:1480px;padding:32px 40px;border:0;}
+.qj-wordmark{font-size:38px!important;color:#202020!important;letter-spacing:-1px;}
+.qj-back{border:0;}
+.qjiang-project .elementor .qjc-section{padding:40px 40px!important;order:0!important;border:0!important;}
+.qjiang-project .elementor .qjc-title{padding-top:52px!important;padding-bottom:24px!important;}
+.qjiang-project .elementor .qjc-overview{padding-top:0!important;padding-bottom:20px!important;}
+.qjiang-project .elementor .qjc-overview .elementor-container{gap:48px;}
+.qjiang-project .elementor .qjc-hero{padding-top:32px!important;padding-bottom:48px!important;}
+.qjiang-project .elementor .qjc-heading .elementor-heading-title,
+.elementor .qje-detail .qjc-heading .elementor-heading-title{font-size:clamp(38px,5vw,72px)!important;font-weight:500!important;line-height:1.18!important;letter-spacing:-1.5px!important;}
+.qjiang-project .elementor .elementor-widget-heading .elementor-heading-title{font-size:28px!important;line-height:1.4!important;font-weight:500!important;letter-spacing:-.4px!important;}
+.qjiang-project .elementor .qjc-heading .elementor-heading-title{font-size:clamp(38px,5vw,72px)!important;line-height:1.18!important;}
+.qjiang-project .elementor .elementor-inner-section .elementor-heading-title{font-size:22px!important;}
+.qjiang-project .elementor .elementor-widget-text-editor,
+.qjiang-project .elementor .elementor-widget-text-editor :is(p,li,div,span){font-size:18px!important;line-height:1.8!important;color:#555!important;}
+.qjiang-project .elementor .elementor-widget-text-editor :is(h3,h4,h5,h6){font-size:21px!important;font-weight:500!important;line-height:1.5!important;margin:18px 0 12px!important;}
+.qjiang-project .elementor .elementor-inner-section > .elementor-container{gap:32px;}
+.qjiang-project .elementor .elementor-widget-image img{border-radius:0;max-height:900px;object-fit:contain;}
+.qjiang-project .elementor .qjc-gallery .elementor-widget-image img{max-height:640px;}
+.qjiang-project .elementor .qjc-film video{width:100%;max-height:850px;object-fit:contain;}
+.qj-next{background:#222;padding:48px max(40px,calc((100vw - 1400px)/2));margin-top:64px;}
+.qj-next a b{color:#c6bcdf;}
+.elementor .qje-detail{max-width:1480px;padding:32px 40px 64px;gap:24px;}
+.elementor .qje-detail .elementor-widget-text-editor{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",Arial,sans-serif;font-size:18px;line-height:1.8;max-width:800px;color:#555;}
+.elementor .qje-detail h2.elementor-heading-title{font-size:28px;line-height:1.4;margin-top:40px;}
+@media(max-width:767px){
+ .qj-masthead{padding:24px 20px;}.qj-wordmark{font-size:30px!important;}
+ .qjiang-project .elementor .qjc-section{padding:28px 20px!important;}
+ .qjiang-project .elementor .qjc-title{padding-top:28px!important;padding-bottom:16px!important;}
+ .qjiang-project .elementor .qjc-overview{padding-top:0!important;padding-bottom:12px!important;}
+ .qjiang-project .elementor .elementor-widget-text-editor,.qjiang-project .elementor .elementor-widget-text-editor :is(p,li,div,span){font-size:16px!important;line-height:1.8!important;}
+ .qjiang-project .elementor .elementor-widget-heading .elementor-heading-title{font-size:24px!important;}
+ .qjiang-project .elementor .qjc-heading .elementor-heading-title{font-size:38px!important;}
+ .elementor .qje-detail{padding:24px 20px 48px;}.elementor .qje-detail .elementor-widget-text-editor{font-size:16px;}
+ .qj-next{padding:36px 20px;}
+}
