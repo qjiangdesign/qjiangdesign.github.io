@@ -330,3 +330,47 @@ body.qjiang-project {--qj-width:1400px;--qj-rule:#e2e2e2;--qj-ink:#202020;backgr
  .elementor .qje-detail{padding:24px 20px 48px;}.elementor .qje-detail .elementor-widget-text-editor{font-size:16px;}
  .qj-next{padding:36px 20px;}
 }
+
+/* Project opening: image, title, then a consistently sized introduction. */
+body.page-id-4638,body.page-id-4639{background:#fff!important;color:#202020;}
+body.page-id-4638 .elementor,body.page-id-4639 .elementor{background:#fff!important;}
+.qjiang-project .elementor .qjc-hero{order:0!important;padding:16px 40px 28px!important;max-width:1480px;margin:auto!important;width:100%;}
+.qjiang-project .elementor .qjc-title{order:0!important;padding-top:24px!important;}
+.qjiang-project .elementor .qjc-overview .elementor-container{display:block!important;}
+.qjiang-project .elementor .qjc-overview .elementor-column{width:100%!important;max-width:900px;}
+.qjiang-project .elementor .qjc-overview .elementor-widget-heading .elementor-heading-title{font-size:18px!important;color:#777!important;}
+.qjiang-project .elementor .qjc-overview .elementor-widget-text-editor{max-width:900px;}
+.qjiang-project .elementor .qjc-hero img,.elementor .qje-detail .qjc-hero img{width:100%!important;height:auto!important;aspect-ratio:16/9;max-height:780px!important;object-fit:cover!important;}
+.elementor .qje-detail .qjc-native-nav{display:flex;flex-direction:row;justify-content:space-between;align-items:center;padding:0!important;margin:0 0 8px;}
+.elementor .qje-detail .qjc-native-nav .elementor-heading-title{font-size:14px;}
+.elementor .qje-detail .qjc-native-nav > :first-child .elementor-heading-title{font:600 38px Georgia,serif;letter-spacing:-1px;}
+.elementor .qje-detail .qjc-heading .elementor-heading-title{margin:0!important;}
+.elementor .qje-detail .qjc-native-intro{margin-bottom:20px;max-width:900px;}
+.elementor .qje-detail .qjc-native-intro p{font-size:18px;line-height:1.8;color:#555;}
+.elementor .qjc-explanation{width:100%;margin:24px 0!important;}
+.elementor .qjc-explanation img{width:100%;height:auto!important;object-fit:contain!important;max-height:820px;}
+.elementor .qjc-explanation figcaption{font-size:13px!important;line-height:1.6!important;color:#777!important;text-align:left!important;margin-top:10px;}
+@media(max-width:767px){
+ .qjiang-project .elementor .qjc-hero{padding:8px 20px 20px!important;}
+ .qjiang-project .elementor .qjc-title{padding-top:16px!important;}
+ .elementor .qje-detail .qjc-native-nav > :first-child .elementor-heading-title{font-size:30px;}
+ .elementor .qje-detail .qjc-native-intro p{font-size:16px;}
+ .elementor .qjc-explanation{margin:16px 0!important;}
+}
+.elementor .qje-detail .elementor-widget-text-editor,.qjiang-project .elementor .qjc-overview .elementor-widget-text-editor{max-width:900px!important;}
+
+/* One shared alignment rail at every viewport width. */
+body{--qj-page-gutter:max(40px,calc((100% - 1400px)/2));}
+.qj-masthead{box-sizing:border-box;width:100%;max-width:none;padding-left:var(--qj-page-gutter)!important;padding-right:var(--qj-page-gutter)!important;}
+.qjiang-project .elementor .qjc-section,
+.qjiang-project .elementor .qjc-hero{box-sizing:border-box;width:100%!important;max-width:none!important;margin-left:0!important;margin-right:0!important;padding-left:var(--qj-page-gutter)!important;padding-right:var(--qj-page-gutter)!important;}
+.qjiang-project .elementor .qjc-section > .elementor-container{width:100%;max-width:none!important;}
+.elementor .qje-detail,.elementor .qje-home{box-sizing:border-box;width:100%;max-width:none!important;padding-left:var(--qj-page-gutter)!important;padding-right:var(--qj-page-gutter)!important;}
+.elementor .qje-detail{padding-bottom:0!important;}
+.elementor .qje-detail > :last-child{border:0!important;padding-top:0!important;margin-top:0!important;}
+.qj-next{box-sizing:border-box;width:100%;margin:64px 0 0!important;padding:48px var(--qj-page-gutter)!important;background:#222;color:#fff;}
+.qj-next > span{font-size:12px;letter-spacing:1.5px;color:#bdbdbd;}
+.qj-next > a{font-size:clamp(30px,4vw,56px);font-weight:500;line-height:1.3;padding:28px 0 48px;letter-spacing:-.6px;color:#fff;}
+.qj-next > div{font-size:13px;line-height:1.6;}
+@media(max-width:767px){body{--qj-page-gutter:20px;}.qj-next{padding-top:32px!important;padding-bottom:32px!important;margin-top:40px!important;}.qj-next > a{padding:24px 0 32px;}.qj-next > div{flex-wrap:wrap;gap:12px;}}
+.qjiang-project .elementor .qjc-film .elementor-widget-video{width:100%!important;max-width:100%!important;align-self:stretch!important;}
