@@ -288,3 +288,6 @@ html:has(body.page-id-3813) {scroll-behavior:smooth;scroll-padding-top:48px;}
 .elementor .qje-detail > :last-child{border-top:1px solid #ddd;padding-top:28px;margin-top:24px;}
 .elementor .qje-detail a:hover{color:#686080;}
 @media(max-width:767px){.elementor .qje-detail{padding:24px 20px 48px;gap:20px;}}
+.elementor .qje-detail .elementor-widget-text-editor{max-width:900px;}
+.elementor .qje-detail .elementor-widget-image figcaption{font-size:13px;line-height:1.6;color:#777;text-align:left;margin-top:12px;}
+.elementor .qje-detail .elementor-widget-image figure img{max-height:900px;object-fit:contain;background:#f7f7f7;}
