@@ -374,3 +374,33 @@ body{--qj-page-gutter:max(40px,calc((100% - 1400px)/2));}
 .qj-next > div{font-size:13px;line-height:1.6;}
 @media(max-width:767px){body{--qj-page-gutter:20px;}.qj-next{padding-top:32px!important;padding-bottom:32px!important;margin-top:40px!important;}.qj-next > a{padding:24px 0 32px;}.qj-next > div{flex-wrap:wrap;gap:12px;}}
 .qjiang-project .elementor .qjc-film .elementor-widget-video{width:100%!important;max-width:100%!important;align-self:stretch!important;}
+
+/* Home footer: stable columns and deliberate responsive wrapping. */
+.elementor .qje-home .qje-footer {
+ display:grid!important;
+ grid-template-columns:max-content minmax(0,1fr) max-content;
+ align-items:center;
+ column-gap:30px;
+ row-gap:16px;
+}
+.elementor .qje-home .qje-footer > .elementor-widget {
+ width:auto!important;
+ min-width:0;
+ margin:0!important;
+}
+.elementor .qje-home .qje-footer > :first-child,
+.elementor .qje-home .qje-footer > :last-child {white-space:nowrap;}
+.elementor .qje-home .qje-footer > :last-child {justify-self:end;}
+.elementor .qje-home .qje-footer .elementor-widget-text-editor p {
+ margin:0!important;
+ line-height:1.7;
+ text-wrap:balance;
+ word-break:keep-all;
+ overflow-wrap:normal;
+}
+@media(max-width:767px) {
+ .elementor .qje-home .qje-footer {grid-template-columns:minmax(0,1fr) max-content;column-gap:16px;}
+ .elementor .qje-home .qje-footer > :first-child {grid-column:1;grid-row:1;}
+ .elementor .qje-home .qje-footer > :last-child {grid-column:2;grid-row:1;}
+ .elementor .qje-home .qje-footer > .elementor-widget-text-editor {grid-column:1 / -1;grid-row:2;}
+}
