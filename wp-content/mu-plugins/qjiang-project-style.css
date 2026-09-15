@@ -404,3 +404,23 @@ body{--qj-page-gutter:max(40px,calc((100% - 1400px)/2));}
  .elementor .qje-home .qje-footer > :last-child {grid-column:2;grid-row:1;}
  .elementor .qje-home .qje-footer > .elementor-widget-text-editor {grid-column:1 / -1;grid-row:2;}
 }
+
+/* Cobot: proportionate research images and legible transparent diagrams. */
+body.page-id-3821 .elementor :is(.elementor-element-e9df583,.elementor-element-1238086,.elementor-element-c7d7b23,.elementor-element-dd8c242,.elementor-element-acbd2c6,.elementor-element-118cc9e) img {
+ width:auto!important;height:auto!important;max-width:100%!important;max-height:380px!important;object-fit:contain!important;
+}
+body.page-id-3821 .elementor .elementor-element-f85fbd9 img {width:auto!important;height:auto!important;max-height:420px!important;object-fit:contain!important;}
+body.page-id-3821 .elementor :is(.elementor-element-6883919,.elementor-element-ac43e8e,.elementor-element-50c2e52,.elementor-element-1de82c9) img {
+ width:120px!important;height:120px!important;max-width:100%!important;object-fit:contain!important;
+}
+body.page-id-3821 .elementor :is(.elementor-element-daa1c64,.elementor-element-b56afeb,.elementor-element-530c772,.elementor-element-d9609aa) .elementor-widget-container {
+ background:#101114;padding:32px!important;text-align:center;
+}
+body.page-id-3821 .elementor :is(.elementor-element-daa1c64,.elementor-element-b56afeb,.elementor-element-530c772,.elementor-element-d9609aa) img {
+ display:block;margin:0 auto!important;width:auto!important;height:auto!important;max-width:100%!important;max-height:500px!important;object-fit:contain!important;
+}
+body.page-id-3821 .elementor .elementor-element-d9609aa img {width:100%!important;max-height:none!important;}
+@media(max-width:767px){
+ body.page-id-3821 .elementor :is(.elementor-element-daa1c64,.elementor-element-b56afeb,.elementor-element-530c772,.elementor-element-d9609aa) .elementor-widget-container {padding:16px!important;}
+ body.page-id-3821 .elementor :is(.elementor-element-e9df583,.elementor-element-1238086,.elementor-element-c7d7b23,.elementor-element-dd8c242,.elementor-element-acbd2c6,.elementor-element-118cc9e) img {max-height:320px!important;}
+}
